@@ -10,4 +10,4 @@ The repository has the following files:
  - `Glean Builder - Spark SQL API.ipynb` - Jupyter notebook for building gleans using the Spark SQL API. Designed to work with SQL composed with pyspark.
 
 ## Output of gleans created
- - `combined_gleans.csv` - csv output
+ - `combined_gleans_v2` - csv output directory from spark.
