@@ -1,4 +1,4 @@
-Task:
+Goal:
 
 	Using two input CSVs, create a Spark Scala/PySpark/Dask application (you can use any other distributed framework for data processing) which will process input data and create and store a new CSV with insights (what we call gleans).
 	The app with the code should be pushed to GitHub/GitLab or any other git based platform.
