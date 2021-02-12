@@ -1,7 +1,7 @@
 The repository has the following files: 
 
 ## Instructions and data provided
- - `Introduction.txt` - project overview
+ - `introduction.txt` - project overview
  - `invoice.csv` - task input file (invoice)
  - `line_item.csv` - task input file (line item)
 
